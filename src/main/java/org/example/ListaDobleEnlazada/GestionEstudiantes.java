@@ -16,6 +16,7 @@ public class GestionEstudiantes {
         if (head == null) {
             head = nuevoNodo;
             tail = nuevoNodo;
+
         } else {
             tail.next = nuevoNodo;
             nuevoNodo.prev = tail;
@@ -34,7 +35,6 @@ public class GestionEstudiantes {
         }
         System.out.println("Estudiante no encontrado.");
     }
-
     public void eliminarEstudiante(String nombre) {
         Nodo current = head;
         while (current != null) {
@@ -43,6 +43,7 @@ public class GestionEstudiantes {
                     head = null;
                     tail = null;
                 } else if (current == head) {
+
                     head = head.next;
                     head.prev = null;
                 } else if (current == tail) {

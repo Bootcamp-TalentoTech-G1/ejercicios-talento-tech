@@ -4,16 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69347a8f-c5e4-431e-8d36-96e28719a301" name="Changes" comment="Material ejercicios talento tech">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/modelos/Cola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/modelos/ListaCircular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/modelos/ListaDobleEnlazada/Estudiante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/modelos/ListaDobleEnlazada/GestionEstudiantes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/modelos/ListaDobleEnlazada/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/modelos/ListaDobleEnlazada/Nodo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/modelos/Pila.java" afterDir="false" />
+    <list default="true" id="69347a8f-c5e4-431e-8d36-96e28719a301" name="Changes" comment="nuevos ejercicios y ejemplos">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/algritmosDeBusqueda/binaria/BusquedaBinaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/algritmosDeBusqueda/binaria/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/algritmosDeBusqueda/interpolación/BusquedaInterpolacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/algritmosDeBusqueda/interpolación/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/algritmosDeBusqueda/secuencial/BusquedaSecuencial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/algritmosDeBusqueda/secuencial/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arboles/ArbolAvl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arboles/Arboles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/arboles/BusquedaBinaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/Estudiante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/Profesor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/modelos/Reto1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/modelos/Reto1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ListaDobleEnlazada/GestionEstudiantes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ListaDobleEnlazada/GestionEstudiantes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -63,13 +69,13 @@
       <recent name="C:\ejercicos\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Cola" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.modelos.Cola" />
+  <component name="RunManager" selected="Application.Arboles$BinaryTree">
+    <configuration name="ArbolBinario$BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.arboles.ArbolBinario$BinaryTree" />
       <module name="ejercicos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.modelos.*" />
+          <option name="PATTERN" value="org.example.arboles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FiltrarNumeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.lambdas.FiltrarNumeros" />
+    <configuration name="Arboles$BinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.arboles.Arboles$BinaryTree" />
       <module name="ejercicos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.lambdas.*" />
+          <option name="PATTERN" value="org.example.arboles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pila" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.modelos.Pila" />
+    <configuration name="org.example.algritmosDeBusqueda.interpolación.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.algritmosDeBusqueda.interpolación.Main" />
       <module name="ejercicos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.modelos.*" />
+          <option name="PATTERN" value="org.example.algritmosDeBusqueda.interpolación.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arboles$BinaryTree" />
+        <item itemvalue="Application.ArbolBinario$BinaryTree" />
+        <item itemvalue="Application.org.example.algritmosDeBusqueda.interpolación.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ListaCircular" />
-        <item itemvalue="Application.Cola" />
-        <item itemvalue="Application.Pila" />
-        <item itemvalue="Application.FiltrarNumeros" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +161,42 @@
       <option name="project" value="LOCAL" />
       <updated>1709204853860</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="nuevos ejercicios y ejemplos">
+      <created>1709525526334</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709525526334</updated>
+    </task>
+    <task id="LOCAL-00003" summary="nuevos ejercicios y ejemplos">
+      <created>1709525627549</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1709525627549</updated>
+    </task>
+    <task id="LOCAL-00004" summary="nuevos ejercicios y ejemplos">
+      <created>1709526506122</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709526506122</updated>
+    </task>
+    <task id="LOCAL-00005" summary="nuevos ejercicios y ejemplos">
+      <created>1709526666218</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709526666218</updated>
+    </task>
+    <task id="LOCAL-00006" summary="nuevos ejercicios y ejemplos">
+      <created>1709526793712</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709526793712</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +212,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Material ejercicios talento tech" />
-    <option name="LAST_COMMIT_MESSAGE" value="Material ejercicios talento tech" />
+    <MESSAGE value="nuevos ejercicios y ejemplos" />
+    <option name="LAST_COMMIT_MESSAGE" value="nuevos ejercicios y ejemplos" />
   </component>
 </project>
