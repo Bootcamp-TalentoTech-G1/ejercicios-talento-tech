@@ -4,53 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="69347a8f-c5e4-431e-8d36-96e28719a301" name="Changes" comment="Arbol binario">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/contrasena/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/electrodomesticos/Electrodomestico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/electrodomesticos/Lavadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/electrodomesticos/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/electrodomesticos/Television.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/entregable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/entregable/Serie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/entregable/Videojuego.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/auto/Automóvil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/auto/Diagrama Auto.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/auto/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/comportamientos/AccionesComunes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/comportamientos/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/comportamientos/Cancion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/comportamientos/ComportamientoHumano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/comportamientos/Diagrama_UML.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/comportamientos/Gato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/comportamientos/Hombre.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/comportamientos/Humano.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/comportamientos/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/comportamientos/Mujer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/comportamientos/Perro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/figuras/Cuadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/figuras/Círculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/figuras/Diagrama Figuras.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/figuras/PruebaFiguras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/figuras/Rectángulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/figuras/TrianguloRectangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/inmuebles/Apartaestudio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/inmuebles/Apartamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/inmuebles/ApartamentoFamiliar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/inmuebles/Casa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/inmuebles/CasaRural.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/inmuebles/Diagramainmuebles.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/inmuebles/Inmueble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/inmuebles/InmuebleVivienda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/inmuebles/Prueba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/tienda/Computador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/tienda/Diagrama Tienda.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/tienda/Pueba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/tienda/Tienda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/masterclass/listagenerica/ListasGenericas.java" afterDir="false" />
+    <list default="true" id="69347a8f-c5e4-431e-8d36-96e28719a301" name="Changes" comment="Contentenido mastes class uno">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/masterclass/Estudiante.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/masterclass/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/masterclass/Profesor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/arboles/ArbolAvl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/arboles/ArbolAvl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,14 +41,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/ejercicos/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/inmuebles"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/ejercicos/src/main/java/org/example/masterclass/interpretacióndiagramadeclases/inmuebles&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.example.modelos" />
@@ -109,7 +65,20 @@
       <recent name="C:\ejercicos\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pueba">
+  <component name="RunManager" selected="Application.ArbolAvl$ArbolAVL">
+    <configuration name="ArbolAvl$ArbolAVL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.arboles.ArbolAvl$ArbolAVL" />
+      <module name="ejercicos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.arboles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="PruebaFiguras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.masterclass.interpretacióndiagramadeclases.figuras.PruebaFiguras" />
       <module name="ejercicos" />
@@ -129,19 +98,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.masterclass.interpretacióndiagramadeclases.tienda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="org.example.masterclass.contrasena.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.masterclass.contrasena.Main" />
-      <module name="ejercicos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.masterclass.contrasena.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArbolAvl$ArbolAVL" />
         <item itemvalue="Application.Pueba" />
         <item itemvalue="Application.PruebaFiguras" />
         <item itemvalue="Application.org.example.masterclass.entregable.Main" />
         <item itemvalue="Application.org.example.masterclass.electrodomesticos.Main" />
-        <item itemvalue="Application.org.example.masterclass.contrasena.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710377052328</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Contentenido mastes class uno">
+      <created>1710652498691</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1710652498691</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -276,7 +239,8 @@
     <MESSAGE value="nuevos ejercicios y ejemplos" />
     <MESSAGE value="ARBOLES" />
     <MESSAGE value="Arbol binario" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arbol binario" />
+    <MESSAGE value="Contentenido mastes class uno" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contentenido mastes class uno" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
